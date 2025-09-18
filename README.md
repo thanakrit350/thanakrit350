@@ -16,9 +16,7 @@
   <a href="https://drive.google.com/drive/folders/1hEpbP0qzQeiexdOK8Z71V65ruqpnj5PB?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
 </p>
 
 <p align="center">
