@@ -138,7 +138,7 @@ motto: "Code with passion, build with purpose"
 <div align="center">
 
 <table width="100%">
-  <!-- ===== Project 1 ===== -->
+  <!-- Project 1 -->
   <tr>
     <td width="50%" valign="top">
 
@@ -171,7 +171,7 @@ motto: "Code with passion, build with purpose"
     </td>
   </tr>
 
-  <!-- ===== Project 2 ===== -->
+  <!-- Project 2 -->
   <tr>
     <td width="50%" valign="top">
 
@@ -206,7 +206,6 @@ motto: "Code with passion, build with purpose"
 
 </div>
 
-</div>
 
 ---
 
