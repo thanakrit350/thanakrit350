@@ -143,7 +143,7 @@ motto: "Code with passion, build with purpose"
 <td width="50%" style="vertical-align: top; padding: 15px;">
 
 <h3>🍽️ Application recommending dining appointments</h3>
-<p><strong>2024 - Present</strong></p>
+<p><strong>2025 - Present</strong></p>
 
 **Tech Stack:**
 <br/>
