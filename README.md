@@ -157,9 +157,12 @@ motto: "Code with passion, build with purpose"
 - 🔍 Smart Restaurant Recommendations
 - 🗺️ Interactive Map Integration
 
+<!-- 🔗 เพิ่มลิงก์ GitHub Repository -->
+[👉 View on GitHub](https://github.com/thanakrit350/ProjectApplication)
+
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanakrit350&repo=restaurant-meetup&theme=tokyonight&border_color=667eea" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanakrit350&repo=ProjectApplication&theme=tokyonight&border_color=667eea" width="100%" />
 </td>
 </tr>
 </table>
