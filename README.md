@@ -158,11 +158,6 @@ motto: "Code with passion, build with purpose"
 - 🔍 Smart Restaurant Recommendations
 - 🗺️ Interactive Map Integration
 
-<!-- ปุ่มลิงก์แบบ badge (ไม่มีเส้นใต้เพราะเป็นภาพ) -->
-<br/>
-<a href="https://github.com/thanakrit350/ProjectApplication" target="_blank">
-  <img src="https://img.shields.io/badge/👉 View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </td>
 <td width="50%">
