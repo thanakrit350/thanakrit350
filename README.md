@@ -216,11 +216,6 @@ motto: "Code with passion, build with purpose"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanakrit350&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=f7931a&point=ffffff&area=true" width="100%"/>
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/thanakrit350/thanakrit350/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
