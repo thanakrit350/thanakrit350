@@ -173,9 +173,7 @@ motto: "Code with passion, build with purpose"
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanakrit350&repo=web-board&theme=tokyonight&border_color=f093fb" width="100%" />
-</td>
-<td width="50%">
+
 <h3>💬 Interactive Web Board</h3>
 <p><strong>2024</strong></p>
 
@@ -191,6 +189,17 @@ motto: "Code with passion, build with purpose"
 - 👥 User Authentication & Authorization
 - 📊 Dynamic Content Management
 
+<!-- ปุ่มลิงก์ไปที่ ProjectWeb -->
+<br/>
+<a href="https://github.com/thanakrit350/ProjectWeb" target="_blank">
+  <img src="https://img.shields.io/badge/👉 View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+<a href="https://github.com/thanakrit350/ProjectWeb" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanakrit350&repo=ProjectWeb&theme=tokyonight&border_color=f093fb" width="100%" />
+</a>
 </td>
 </tr>
 </table>
