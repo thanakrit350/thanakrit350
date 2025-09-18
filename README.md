@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:ffd576&height=200&section=header&text=Thanakrit%20Thaoyot&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%F0%9F%9A%80;Building+Clean+%26+Efficient+Systems+%F0%9F%92%A1;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Backend+Developer+%F0%9F%9A%80;Building+Clean+%26+Efficient+Systems+%F0%9F%92%A1;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Profile Views Counter with Gradient -->
 <img src="https://komarev.com/ghpvc/?username=thanakrit350&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
@@ -56,12 +56,76 @@ motto: "Code with passion, build with purpose"
 
 <div align="center">
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|------------|----------------------|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Frontend / Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+<table style="border-collapse: collapse; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; overflow: hidden; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.4);">
+  <thead>
+    <tr style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px);">
+      <th style="padding: 15px; color: #ffffff; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎯 Domain</th>
+      <th style="padding: 15px; color: #ffffff; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🔥 Primary</th>
+      <th style="padding: 15px; color: #ffffff; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">⚡ Comfortable</th>
+      <th style="padding: 15px; color: #ffffff; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🚀 Currently Exploring</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px);">
+      <td style="padding: 15px; color: #ffffff; font-weight: bold; border: 1px solid rgba(255,255,255,0.1);">🔧 <strong>Backend</strong></td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(5px);">
+      <td style="padding: 15px; color: #ffffff; font-weight: bold; border: 1px solid rgba(255,255,255,0.1);">📱 <strong>Frontend / Mobile</strong></td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </td>
+    </tr>
+    <tr style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px);">
+      <td style="padding: 15px; color: #ffffff; font-weight: bold; border: 1px solid rgba(255,255,255,0.1);">🗄️ <strong>Database</strong></td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(5px);">
+      <td style="padding: 15px; color: #ffffff; font-weight: bold; border: 1px solid rgba(255,255,255,0.1);">🛠️ <strong>Tools</strong></td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+      </td>
+      <td style="padding: 15px; border: 1px solid rgba(255,255,255,0.1);">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
