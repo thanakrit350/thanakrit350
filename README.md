@@ -140,7 +140,10 @@ motto: "Code with passion, build with purpose"
 <!-- Project 1 -->
 <table>
 <tr>
+<!-- ทำให้ทั้ง td คลิกได้ -->
 <td width="50%">
+<a href="https://github.com/thanakrit350/ProjectApplication" target="_blank" style="text-decoration:none; display:block; color:inherit;">
+
 <h3>🍽️ Application recommending dining appointments</h3>
 <p><strong>2024 - Present</strong></p>
 
@@ -157,15 +160,17 @@ motto: "Code with passion, build with purpose"
 - 🔍 Smart Restaurant Recommendations
 - 🗺️ Interactive Map Integration
 
-<!-- 🔗 เพิ่มลิงก์ GitHub Repository -->
-[👉 View on GitHub](https://github.com/thanakrit350/ProjectApplication)
-
+</a>
 </td>
+
 <td width="50%">
+<a href="https://github.com/thanakrit350/ProjectApplication" target="_blank" style="text-decoration:none; display:block;">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanakrit350&repo=ProjectApplication&theme=tokyonight&border_color=667eea" width="100%" />
+</a>
 </td>
 </tr>
 </table>
+
 
 <!-- Project 2 -->
 <table>
