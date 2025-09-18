@@ -189,12 +189,6 @@ motto: "Code with passion, build with purpose"
 - 👥 User Authentication & Authorization
 - 📊 Dynamic Content Management
 
-<!-- ปุ่มลิงก์ไปที่ ProjectWeb -->
-<br/>
-<a href="https://github.com/thanakrit350/ProjectWeb" target="_blank">
-  <img src="https://img.shields.io/badge/👉 View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </td>
 <td width="50%">
 <a href="https://github.com/thanakrit350/ProjectWeb" target="_blank">
