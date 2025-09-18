@@ -261,12 +261,6 @@ motto: "Code with passion, build with purpose"
 
 ---
 
-<!-- Music Visualization -->
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
----
 
 <!-- Footer Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:ffd576&height=120&section=footer" />
