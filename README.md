@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 - 🎓 Senior student in **Information Technology**, Faculty of Science, Maejo University  
-- 🔭 Currently developing **Application** (Flutter + Spring Boot + MySQL + OpenStreetMap)  
+- 🔭 Currently developing **Application recommending dining appointments** (Flutter + Spring Boot + MySQL + OpenStreetMap)  
 - 🌱 Interested in **REST API**, **Cloud**, and **Database Design**  
 - 🤝 Strong team player and problem solver, eager to learn and grow with forward-thinking organizations
 
@@ -52,7 +52,7 @@
 
 | Project | Tech Stack | Highlights | Links |
 |--------|------------|-----------|-------|
-| **🍽️ Food Meetup Application** <br/> *2025 – Present* | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Create/join restaurant meetups, navigate from current location, and recommend nearby restaurants using **OpenStreetMap**, **Nominatim**, and **Overpass API** | *(Add repo link)* |
+| **🍽️ Application recommending dining appointments ** <br/> *2025 – Present* | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Create/join restaurant meetups, navigate from current location, and recommend nearby restaurants using **OpenStreetMap**, **Nominatim**, and **Overpass API** | *(Add repo link)* |
 | **💬 Web Board** <br/> *2024* | ![JSP](https://img.shields.io/badge/JSP-323330?style=flat&logo=java&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | University project with comment and Like/Upvote system | *(Add repo link)* |
 
 ---
